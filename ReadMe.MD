@@ -1,4 +1,5 @@
 # Emoji-Logger
+https://cocoapod-badges.herokuapp.com/v/Emojis-Logger/badge.png
 ![Issues](https://img.shields.io/badge/pods-alon-red.svg)
 
 ## Overview
