@@ -1,5 +1,6 @@
 # Emoji-Logger
 ![a](https://cocoapod-badges.herokuapp.com/v/Emoji-Logger/badge.png)
+![a](https://img.shields.io/badge/Language-Swift%204-orange.svg)
 
 ## Overview
 A light weight Swift logger with sevirity levels and built in Emojis
