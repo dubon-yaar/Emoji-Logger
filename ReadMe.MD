@@ -1,5 +1,5 @@
 # Emoji-Logger
-[a](https://img.shields.io/cocoapods/v/Emoji-Logger.svg?style=flat)
+[a](https://cocoapod-badges.herokuapp.com/v/Emoji-Logger/badge.png)
 
 ## Overview
 A light weight Swift logger with sevirity levels and built in Emojis
