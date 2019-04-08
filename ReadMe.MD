@@ -1,5 +1,5 @@
 # Emoji-Logger
-![a](https://cocoapod-badges.herokuapp.com/v/Emoji-Logger/badge.png?link=http://www.google.com)
+![a](https://cocoapod-badges.herokuapp.com/v/Emoji-Logger/badge.png?link=www.google.com)
 ![a](https://img.shields.io/badge/Language-Swift%204-orange.svg)
 ![](https://img.shields.io/badge/dynamic/json.svg?url=https://api.github.com/repos/alongenosar/Emoji-Logger&label=stars&query=$.stargazers_count&color=yellow)
 ![](https://img.shields.io/badge/dynamic/json.svg?url=https://api.github.com/repos/alongenosar/Emoji-Logger&label=followers&query=$.follower_count&color=green)
