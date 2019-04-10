@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/dynamic/json.svg?url=https://api.github.com/repos/alongenosar/Emoji-Logger&label=stars&query=$.stargazers_count&color=yellow)
 ![](https://img.shields.io/badge/dynamic/json.svg?url=https://api.github.com/repos/alongenosar/Emoji-Logger&label=followers&query=$.follower_count&color=green)
 ## Overview
-A light weight Swift logger with sevirity levels and built in Emojis
+Light weight Swift logger with sevirity levels and built in Emojis
 
 ## Installation
 
