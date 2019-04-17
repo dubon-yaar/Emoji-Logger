@@ -13,6 +13,7 @@ Light weight Swift console logger with sevirity levels and built in Emojis
 - Drag Logger.swift file into xCode
 - Select "Copy Files" from dialog
 
+
 ### CocoaPods
 Add the following line to your Podfile:
 
